@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gelocg&label=Profile%20views&color=0e75b6&style=flat" alt="gelocg" /> </p>
 
-- 🔭 I’m currently working on [Gazes](git@github.com:Deril-fr/gaze-api.git)
+- 🔭 I’m currently working on [cloister.online](https://github.com/trail-l31/cloister.online)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Symfony**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
